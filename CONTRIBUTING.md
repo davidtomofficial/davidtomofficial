@@ -1,15 +1,15 @@
-Thank you for taking the time to contribute, your contributions matter!
+# Contributing
 
-Are you a beginner just looking to start contributing? Try looking thru a repository for typos!
+Thank you for helping improve this profile and its documentation. Small corrections, clearer wording, and broken-link reports are welcome.
 
-Other examples of contributions can include:
-  - Identifying Bugs or Errors
-  - Alternative methods or uses for specific sections of code
-  - Additional notes or guides
+For code changes to another project, open a pull request in that project's repository, or an issue if its issue tracker is enabled, and follow its contribution guidance.
 
-Still not sure how to contribute?
-  - Start by making a Github account and forking a clone of the repository.
-  - Add your contributions to the code.
-  - Push a branch of your fork to the Github repository.
+## Propose a change
 
-Make sure to comment not only what your commit does but also what you did to the code.
+1. Fork this repository for a focused edit; this profile repository does not have an issue tracker enabled.
+2. Create a branch in your fork and make the change.
+3. Check Markdown formatting and any links you changed.
+4. Push the branch to your fork and open a pull request against this repository's `main` branch.
+5. Explain what changed and why it helps readers.
+
+For changes to professional history, credentials, or contact information, provide the source or ask the owner to verify the details.

@@ -100,6 +100,20 @@ This role gave me extensive experience supporting users and endpoints while work
 
 ---
 
+## 📂 Explore My Repositories
+
+| Repository | What you'll find |
+|---|---|
+| [Windows System Administration](https://github.com/davidtomofficial/Windows-System-Administration) | Windows workstation baseline, toolkit plans, and historical source references |
+| [Python](https://github.com/davidtomofficial/Python) | Python programming exercises and examples |
+| [SQL](https://github.com/davidtomofficial/SQL) | SQL coursework and database examples |
+| [C++ Examples](https://github.com/davidtomofficial/cpp-Examples) | C++ exercises and projects, including Tic-Tac-Toe |
+| [Web and App Development](https://github.com/davidtomofficial/Web-App-Development) | HTML/CSS coursework and a React Native app prototype |
+
+These repositories include learning projects and experiments. Each project's README describes its scope and setup.
+
+---
+
 # ⚙️ Areas I'm Exploring
 
 I'm continually building and experimenting with technologies involving:
