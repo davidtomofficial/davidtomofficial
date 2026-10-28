@@ -1,12 +1,14 @@
 # Hi there 👋 I'm David Tom
 
-### IT Systems & Automation Professional | Endpoint Management | PowerShell | Infrastructure | Public-Sector IT
+### Systems Technician III | IT Systems & Automation | PowerShell | Endpoint Management | Public-Sector IT
 
-> **Automated solutions. Real-world results.**
+> **Tenacity backed by results. Practical automation built around real-world constraints.**
 
-I'm an IT professional currently working as a **Systems Technician I with the City of North Las Vegas**, with experience across public-sector, higher-education, and enterprise IT environments.
+I'm an IT professional currently working as a **Systems Technician II with the City of North Las Vegas**, with experience across public-sector, higher-education, and enterprise IT environments.
 
 My background combines hands-on technical support with **systems administration, endpoint management, deployment, automation, networking, and infrastructure**. I'm especially interested in finding ways to standardize technical processes, automate repetitive work, and build reliable systems that are easier to manage and support.
+
+My approach is to take ownership, learn continuously, and follow through. I build practical automation and support systems that help teams work more reliably under real-world constraints.
 
 My long-term direction is toward **Systems Engineering, Infrastructure Engineering, and IT Automation**.
 
@@ -14,7 +16,7 @@ My long-term direction is toward **Systems Engineering, Infrastructure Engineeri
 
 ## 👨‍💻 About Me
 
-- 🏛️ **Systems Technician I** — City of North Las Vegas
+- 🏛️ **Systems Technician II** — City of North Las Vegas
 - 🖥️ Experience supporting Windows, macOS, Linux, and mobile environments
 - ⚙️ Focused on systems administration, infrastructure, endpoint management, and automation
 - 📱 Hands-on experience with Microsoft Intune, Autopilot, Jamf Pro, and SCCM
@@ -23,16 +25,23 @@ My long-term direction is toward **Systems Engineering, Infrastructure Engineeri
 - 🌐 Background in networking, troubleshooting, imaging, deployment, and enterprise support
 - 🤖 Exploring agentic AI, AI-assisted workflows, and automation for IT operations
 - 🔐 Continuing to develop skills in cybersecurity and infrastructure security
-- 🎓 Completing a B.S. in Information Technology while continuing professional development
+- 🎓 Completing a B.S. in Information Technology at Western Governors University — expected June 2027
 
 ---
 
 # 💼 Professional Experience
 
-## 🏛️ Systems Technician I
+## 🏛️ Systems Technician II
 ### City of North Las Vegas
 
-Currently supporting municipal IT operations while expanding my experience in enterprise infrastructure and endpoint management.
+**Systems Technician II — October 2026–Present**  
+**Systems Technician I — May 2026–October 2026**  
+Reclassified effective October 28, 2026.
+
+Supporting municipal IT operations with a focus on practical automation, endpoint deployment, and usable technical documentation.
+
+- Developed PowerShell imaging and provisioning automation used in municipal workstation deployment, automating setup and application installation in a workflow previously based on USB imaging and manual software installation.
+- Designed and built a searchable, locally run HTML knowledge base that brings together the IT escalation matrix, service desk guidelines, and technical support guides for ticket routing and troubleshooting.
 
 My work includes areas such as:
 
@@ -78,7 +87,14 @@ My experience included:
 - Technical documentation
 - IT service delivery
 
-This role gave me extensive experience supporting users and endpoints while working across multiple technologies, departments, and technical teams.
+Selected results:
+
+- Developed and maintained PowerShell post-imaging and maintenance automation used daily by nearly 20 IT staff, with weekly SCCM deployments supporting updates and verification across an approximately 8,000-endpoint Windows environment.
+- Automated common macOS lab and classroom fixes with Bash/Zsh scripts and Jamf policies.
+- Built Microsoft Graph integrations for device onboarding, policy assignment, and inventory reporting.
+- Maintained 4.92/5.00 CSAT and resolved approximately 791 tickets during 2025.
+
+This role strengthened my ability to turn recurring support problems into practical tools that other technicians could use.
 
 ---
 
@@ -149,7 +165,7 @@ I'm continually building and experimenting with technologies involving:
 ## Bachelor of Science — Information Technology
 **Western Governors University**
 
-*In Progress — Expected 2026*
+*In Progress — Expected June 2027*
 
 Current studies complement my professional experience in areas including:
 
@@ -234,4 +250,6 @@ And as a Nevada resident, here's one of my favorite local facts:
 
 ### 💡 My Approach
 
-**Learn the system. Understand the problem. Document the solution. Automate what comes next.**
+**Take ownership. Learn the system. Understand the problem. Document the solution. Automate what comes next.**
+
+Tenacity means following through on useful work: practical tools, clear documentation, and improvements that help an entire team.
