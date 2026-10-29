@@ -1,8 +1,6 @@
-# Hi there 👋 I'm David Tom
+# David Tom
 
-### Systems Technician III | IT Systems & Automation | PowerShell | Endpoint Management | Public-Sector IT
-
-> **Tenacity backed by results. Practical automation built around real-world constraints.**
+### Systems Technician II | IT Systems & Automation | PowerShell | Endpoint Management | Public-Sector IT
 
 I'm an IT professional currently working as a **Systems Technician II with the City of North Las Vegas**, with experience across public-sector, higher-education, and enterprise IT environments.
 
@@ -25,7 +23,7 @@ My long-term direction is toward **Systems Engineering, Infrastructure Engineeri
 - 🌐 Background in networking, troubleshooting, imaging, deployment, and enterprise support
 - 🤖 Exploring agentic AI, AI-assisted workflows, and automation for IT operations
 - 🔐 Continuing to develop skills in cybersecurity and infrastructure security
-- 🎓 Completing a B.S. in Information Technology at Western Governors University — expected June 2027
+- 🎓 Completing a B.S. in Information Technology at Western Governors University — anticipated 2027
 
 ---
 
@@ -41,7 +39,7 @@ Reclassified effective October 28, 2026.
 Supporting municipal IT operations with a focus on practical automation, endpoint deployment, and usable technical documentation.
 
 - Developed PowerShell imaging and provisioning automation used in municipal workstation deployment, automating setup and application installation in a workflow previously based on USB imaging and manual software installation.
-- Designed and built a searchable, locally run HTML knowledge base that brings together the IT escalation matrix, service desk guidelines, and technical support guides for ticket routing and troubleshooting.
+- Designed and built a locally run, searchable HTML support reference to help technicians locate guidance, route tickets, and troubleshoot recurring issues.
 
 My work includes areas such as:
 
@@ -165,7 +163,7 @@ I'm continually building and experimenting with technologies involving:
 ## Bachelor of Science — Information Technology
 **Western Governors University**
 
-*In Progress — Expected June 2027*
+*In progress — anticipated 2027*
 
 Current studies complement my professional experience in areas including:
 
