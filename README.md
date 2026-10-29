@@ -230,7 +230,9 @@ That's where scripting, documentation, standardization, and systems thinking com
 
 I'm always interested in connecting with other professionals working in **IT infrastructure, systems engineering, automation, endpoint management, cloud technologies, cybersecurity, and emerging technology**.
 
-📫 **Email:** [contact@davidtomofficial.com](mailto:contact@davidtomofficial.com)
+📫 **Email:** [david.tom@davidtomofficial.com](mailto:david.tom@davidtomofficial.com)
+
+🌐 **Portfolio:** [David Tom Official](https://davidtomofficial.wordpress.com/)
 
 💼 **LinkedIn:** [linkedin.com/in/davidtomofficial](https://www.linkedin.com/in/davidtomofficial/)
 
@@ -244,10 +246,3 @@ And as a Nevada resident, here's one of my favorite local facts:
 
 🏔️ **Nevada is home to hundreds of mountain ranges and is one of the world's major gold-producing regions.**
 
----
-
-### 💡 My Approach
-
-**Take ownership. Learn the system. Understand the problem. Document the solution. Automate what comes next.**
-
-Tenacity means following through on useful work: practical tools, clear documentation, and improvements that help an entire team.
