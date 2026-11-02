@@ -23,7 +23,7 @@ My long-term direction is toward **Systems Engineering, Infrastructure Engineeri
 - 🌐 Background in networking, troubleshooting, imaging, deployment, and enterprise support
 - 🤖 Exploring agentic AI, AI-assisted workflows, and automation for IT operations
 - 🔐 Continuing to develop skills in cybersecurity and infrastructure security
-- 🎓 Completing a B.S. in Information Technology at Western Governors University — anticipated 2027
+- 🎓 Completing a B.S. in Information Technology at Western Governors University — expected June 2027
 
 ---
 
@@ -163,7 +163,7 @@ I'm continually building and experimenting with technologies involving:
 ## Bachelor of Science — Information Technology
 **Western Governors University**
 
-*In progress — anticipated 2027*
+*In progress — expected June 2027*
 
 Current studies complement my professional experience in areas including:
 
@@ -233,6 +233,8 @@ I'm always interested in connecting with other professionals working in **IT inf
 📫 **Email:** [david.tom@davidtomofficial.com](mailto:david.tom@davidtomofficial.com)
 
 🌐 **Portfolio:** [David Tom Official](https://davidtomofficial.wordpress.com/)
+
+Selected work: [PowerShell diagnostics](https://davidtomofficial.wordpress.com/technician-diagnostics-case-study/) · [Service desk knowledge base](https://davidtomofficial.wordpress.com/offline-service-desk-reference-case-study/) · [AI editorial team](https://davidtomofficial.wordpress.com/ai-editorial-team/)
 
 💼 **LinkedIn:** [linkedin.com/in/davidtomofficial](https://www.linkedin.com/in/davidtomofficial/)
 
