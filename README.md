@@ -232,9 +232,9 @@ I'm always interested in connecting with other professionals working in **IT inf
 
 📫 **Email:** [david.tom@davidtomofficial.com](mailto:david.tom@davidtomofficial.com)
 
-🌐 **Portfolio:** [David Tom Official](https://davidtomofficial.wordpress.com/)
+🌐 **Portfolio:** [David Tom Official](https://davidtomofficial.com/)
 
-Selected work: [PowerShell diagnostics](https://davidtomofficial.wordpress.com/technician-diagnostics-case-study/) · [Service desk knowledge base](https://davidtomofficial.wordpress.com/offline-service-desk-reference-case-study/) · [AI editorial team](https://davidtomofficial.wordpress.com/ai-editorial-team/)
+Selected work: [PowerShell diagnostics](https://davidtomofficial.com/technician-diagnostics-case-study/) · [Service desk knowledge base](https://davidtomofficial.com/offline-service-desk-reference-case-study/) · [AI editorial team](https://davidtomofficial.com/ai-editorial-team/)
 
 💼 **LinkedIn:** [linkedin.com/in/davidtomofficial](https://www.linkedin.com/in/davidtomofficial/)
 
