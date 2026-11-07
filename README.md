@@ -36,7 +36,7 @@ Image deployment, device repair, profile removal and full desktop workflows rema
 
 Explore the [curated historical collection](https://github.com/davidtomofficial/academic-and-learning) or the [17-project index](https://github.com/davidtomofficial/davidtomofficial/blob/main/academic-and-learning/README.md) for coursework, independent learning and early prototypes, with original context and source history.
 
-Original repositories: [C++](https://github.com/davidtomofficial/cpp-Examples) · [Python](https://github.com/davidtomofficial/Python) · [SQL](https://github.com/davidtomofficial/SQL) · [Web & apps](https://github.com/davidtomofficial/Web-App-Development). Current compatibility has not been revalidated.
+The collection groups C++ and SQL coursework, web coursework, Python learning exercises and early prototypes. Project guides record snapshot coverage and original provenance. Current compatibility has not been revalidated.
 
 ## Rights and Permission
 
