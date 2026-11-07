@@ -1,15 +1,16 @@
-Thank you for taking the time to contribute, your contributions matter!
+# Contributing to the DTO profile
 
-Are you a beginner just looking to start contributing? Try looking thru a repository for typos!
+This repository contains David Tom's GitHub profile and the historical project index. Focused corrections to wording, links, accessibility and source attribution are welcome.
 
-Other examples of contributions can include:
-  - Identifying Bugs or Errors
-  - Alternative methods or uses for specific sections of code
-  - Additional notes or guides
+## Propose a correction
 
-Still not sure how to contribute?
-  - Start by making a Github account and forking a clone of the repository.
-  - Add your contributions to the code.
-  - Push a branch of your fork to the Github repository.
+1. Identify the affected file, link or claim. For a factual correction, include a public source that supports it.
+2. Create a branch for one focused change. Preserve original project dates, assignment identifiers, attribution and existing license notices.
+3. Check the rendered Markdown and every changed link. Keep the profile concise and distinguish implemented work, recorded tests and future plans.
+4. Open a [pull request](https://github.com/davidtomofficial/davidtomofficial/pulls) against `main` explaining the reason for the change and what you verified.
 
-Make sure to comment not only what your commit does but also what you did to the code.
+For software changes or bug reports, use the affected project's repository and its contribution guide. The profile is a directory of work; each linked project has its own scope and applicable terms.
+
+Do not include credentials, private endpoint reports, personal records, employer material or internal planning links. Preserve the approved **David Tom Official** identity and **Systems, Automation & Software** positioning.
+
+See the existing [license](LICENSE). This guide does not change its terms or the terms of any linked project.
