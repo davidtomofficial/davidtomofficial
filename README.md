@@ -34,6 +34,8 @@ These previews do not deploy images, repair devices or remove profiles. I docume
 
 I retain [SQL](https://github.com/davidtomofficial/SQL), [C++ examples](https://github.com/davidtomofficial/cpp-Examples), [Python experiments](https://github.com/davidtomofficial/Python) and [web and app development](https://github.com/davidtomofficial/Web-App-Development) as historical learning work. Their compatibility with current environments has not been revalidated.
 
+[Browse the project-by-project index](academic-and-learning/README.md) for original context, recorded source snapshots and the distinction between coursework and independent experiments.
+
 ## Rights and Permission
 
 The Windows previews are published for portfolio inspection. Covered original material requires explicit written permission unless an applicable existing license, separate written agreement or law permits the activity. See the [rights and permission notice](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/LICENSE.md). Existing third-party and file-specific licenses remain applicable.
