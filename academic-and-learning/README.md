@@ -10,7 +10,7 @@ Course and institution names are included only where the inspected source establ
 
 | Project | Original context | Learning focus | Source |
 | --- | --- | --- | --- |
-| Library database final assignment | CIT 180 Database Concepts & SQL; HW Final; 2023; institution unconfirmed | SQL Server library-system schema, queries, report and ERD. | [Source snapshot](https://github.com/davidtomofficial/SQL/tree/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment) |
+| Library database final assignment | CSN; CIT 180 Database Concepts & SQL; HW Final; 2023 | SQL Server library-system schema, queries, report and ERD. | [Source snapshot](https://github.com/davidtomofficial/SQL/tree/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment) |
 | Vowel counter (`midtermB`) | CSN; CS135; 2023 | File input and vowel counting. | [Source snapshot](https://github.com/davidtomofficial/cpp-Examples/tree/b0251e163a63122b2633350189e172189aa52860/midtermB) |
 | Book cipher (`pa08`) | CSN; course number unconfirmed; 2023 | Functions, arrays and book-cipher file processing. | [Source snapshot](https://github.com/davidtomofficial/cpp-Examples/tree/b0251e163a63122b2633350189e172189aa52860/pa08) |
 | Grade calculator (`pa09`) | CSN; course number unconfirmed; 2023 | Structures and grade calculation. | [Source snapshot](https://github.com/davidtomofficial/cpp-Examples/tree/b0251e163a63122b2633350189e172189aa52860/pa09) |
