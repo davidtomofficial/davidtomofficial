@@ -1,41 +1,43 @@
+<a href="https://davidtomofficial.com/"><img align="right" src="https://raw.githubusercontent.com/davidtomofficial/Windows-System-Administration/031daa3fb9dde36782faf4937a9a58f836f3c5d7/Scripts/DeviceCare/brand/dto-header-monogram.svg" width="80" height="80" alt="David Tom Official DT monogram" /></a>
+
 # David Tom
 
 **Systems, Automation & Software**
 
-[Portfolio](https://davidtomofficial.com/) · [Resume](https://davidtomofficial.com/resume/) · [david.tom@davidtomofficial.com](mailto:david.tom@davidtomofficial.com)
+[Portfolio](https://davidtomofficial.com/) · [Résumé](https://davidtomofficial.com/resume/) · [LinkedIn](https://www.linkedin.com/in/davidtomofficial/) · [Contact](https://davidtomofficial.com/#contact)
 
-I build practical tools and document what I learn about systems, automation and software. My current focus is PowerShell for Windows observations, explicit uncertainty and reports that make evidence easier to review. Python supports the source packaging and validation work.
+I build practical tools and document what I learn about systems, automation and software. My current work turns Windows workstation observations into repeatable workflows and readable reports, with source and validation that others can inspect.
 
 ## Selected Work
 
-These personal development previews share the [Windows-System-Administration repository](https://github.com/davidtomofficial/Windows-System-Administration). I keep their implemented scope, tests and remaining work alongside the source.
+Imaging & Provisioning and DeviceCare are personal development previews in [Windows System Administration](https://github.com/davidtomofficial/Windows-System-Administration). Both currently focus on local inspection and offline reporting.
 
 ### Imaging & Provisioning
 
-I'm developing tools to review workstation evidence before planning changes. The current preview collects selected workstation observations and bounded service and profile inventories, reviews local WIM metadata, optionally computes SHA-256 hashes, and produces an offline HTML report.
+**Review workstation evidence before planning changes.** The preview collects selected workstation, service and profile observations, compares before/after snapshots, reviews local WIM metadata and can calculate SHA-256 hashes. An offline HTML report keeps findings and incomplete evidence together.
 
-It also compares selected before/after workstation observations, preserving `Unknown` when evidence is incomplete. Profile age remains a review signal. Complete session coverage and removal eligibility are not established, and profile identifiers are omitted by default.
-
-[Current source and scope](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/Imaging-Provisioning/README.md) · [Case study](https://davidtomofficial.com/windows-imaging-provisioning/#personal-development) · [Verified snapshot](https://github.com/davidtomofficial/Windows-System-Administration/blob/1284be142ce12f3ef6713f925b7a34df364b2478/Scripts/Imaging-Provisioning/README.md)
+[Source & scope](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/Imaging-Provisioning/README.md) · [Example workflow](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/Imaging-Provisioning/docs/PROOF-PACKAGE.md) · [Case study](https://davidtomofficial.com/windows-imaging-provisioning/#personal-development) · [Verified snapshot](https://github.com/davidtomofficial/Windows-System-Administration/blob/1284be142ce12f3ef6713f925b7a34df364b2478/Scripts/Imaging-Provisioning/README.md)
 
 ### DeviceCare
 
-I'm building a compact way to review local OS, memory and system-drive observations. The preview evaluates memory and free-space thresholds, retains `Observed`, `Review` and `Unknown` findings, and creates an offline HTML report. Threshold findings support review; they do not certify overall device health.
+**Turn basic device observations into a readable report.** The preview gathers local OS, memory and system-drive observations, checks memory and free-space thresholds, and produces an offline HTML report. Findings distinguish `Observed`, `Review` and `Unknown`; a threshold result is not an overall health certification.
 
-[Current source and scope](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/DeviceCare/README.md) · [Case study](https://davidtomofficial.com/devicecare/) · [Verified snapshot](https://github.com/davidtomofficial/Windows-System-Administration/blob/1284be142ce12f3ef6713f925b7a34df364b2478/Scripts/DeviceCare/README.md)
+[Source & scope](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/DeviceCare/README.md) · [Example workflow](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Scripts/DeviceCare/docs/PROOF-PACKAGE.md) · [Case study](https://davidtomofficial.com/devicecare/) · [Verified snapshot](https://github.com/davidtomofficial/Windows-System-Administration/blob/1284be142ce12f3ef6713f925b7a34df364b2478/Scripts/DeviceCare/README.md)
 
 ## How I Work
 
-I set the project scope and use AI-assisted development with source review, explicit test cases and recorded validation results. The linked verified snapshot passed [Windows Server 2022 CI](https://github.com/davidtomofficial/Windows-System-Administration/actions/runs/42286981032). I distinguish those checks from operational acceptance: attended Windows 11 testing and full native desktop workflows remain open.
+I define the project scope and use AI-assisted development, source review, explicit test cases and recorded validation. PowerShell implements the Windows workflows, HTML/CSS presents the reports, and Python supports packaging and validation.
 
-These previews do not deploy images, repair devices or remove profiles. I document incomplete evidence and implementation limits so readers can assess what each increment actually demonstrates.
+The [review guide](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Docs/REVIEWER-GUIDE.md) connects capabilities to source and evidence. The linked verified snapshot passed [Windows Server 2022 CI](https://github.com/davidtomofficial/Windows-System-Administration/actions/runs/42286981032); the [example-workflow record](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/Docs/PROOF-PACKAGES.md#verification-checkpoint) documents the later synthetic proofs and their exact tested revision.
+
+Image deployment, device repair, profile removal and full desktop workflows remain outside the implemented previews. Attended Windows 11 acceptance is still open.
 
 ## Coursework & Early Projects
 
-I retain [SQL](https://github.com/davidtomofficial/SQL), [C++ examples](https://github.com/davidtomofficial/cpp-Examples), [Python experiments](https://github.com/davidtomofficial/Python) and [web and app development](https://github.com/davidtomofficial/Web-App-Development) as historical learning work. Their compatibility with current environments has not been revalidated.
+Explore the [curated historical collection](https://github.com/davidtomofficial/academic-and-learning) or the [17-project index](https://github.com/davidtomofficial/davidtomofficial/blob/main/academic-and-learning/README.md) for coursework, independent learning and early prototypes, with original context and source history.
 
-[Browse the project-by-project index](academic-and-learning/README.md) for original context, recorded source snapshots and the distinction between coursework and independent experiments.
+Original repositories: [C++](https://github.com/davidtomofficial/cpp-Examples) · [Python](https://github.com/davidtomofficial/Python) · [SQL](https://github.com/davidtomofficial/SQL) · [Web & apps](https://github.com/davidtomofficial/Web-App-Development). Current compatibility has not been revalidated.
 
 ## Rights and Permission
 
-The Windows previews are published for portfolio inspection. Covered original material requires explicit written permission unless an applicable existing license, separate written agreement or law permits the activity. See the [rights and permission notice](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/LICENSE.md). Existing third-party and file-specific licenses remain applicable.
+The Windows previews are published for portfolio inspection. Covered original material requires explicit written permission unless an applicable existing license, separate written agreement or law permits the activity. Read the [rights and permission notice](https://github.com/davidtomofficial/Windows-System-Administration/blob/main/LICENSE.md). Existing third-party and file-specific licenses remain applicable.
