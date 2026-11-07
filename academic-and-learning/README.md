@@ -4,6 +4,8 @@
 
 I keep this index of historical coursework, independent learning and early personal projects so readers can find the original source and understand its context. The links below point to recorded source snapshots in the existing repositories. Current compatibility, performance and deployment have not been revalidated.
 
+The [curated historical collection](https://github.com/davidtomofficial/academic-and-learning) now provides reviewed partial source snapshots alongside the original references. Its [source manifest](https://github.com/davidtomofficial/academic-and-learning/blob/main/SOURCE-MANIFEST.json) identifies included files and material retained at origin; its [rights note](https://github.com/davidtomofficial/academic-and-learning/blob/main/RIGHTS-AND-PROVENANCE.md) explains the limits. Original history links below remain available.
+
 ## Coursework
 
 Course and institution names are included only where the inspected source establishes them. A missing course number stays unconfirmed. Original source dates are distinct from later documentation updates.
